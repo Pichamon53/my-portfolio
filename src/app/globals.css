@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;700&display=swap');
+
+
+body {
+  font-family: 'Sarabun', sans-serif;
+}
+
+/* Hide Next.js Dev Tools badge */
+div[data-next-badge="true"] {
+  display: none !important;
+}
