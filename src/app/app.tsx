@@ -8,7 +8,6 @@ import Mobile from "./Mobile";
 import Contact from "./Contact";
 
 export default function App() {
-  
 
   return (
     <div className="min-h-screen bg-gradient-to-tr from-rose-100 via-sky-100 to-lime-100 dark:from-gray-900 dark:via-gray-800 dark:to-black text-gray-800 dark:text-gray-200 transition-colors duration-500">
@@ -17,8 +16,6 @@ export default function App() {
         <TechStack />
         <WebPreview />
         <Mobile />
-        
-
         <Contact />
       </div>
     </div>
