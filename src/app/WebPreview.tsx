@@ -97,7 +97,7 @@ export default function WebPreview() {
           <div className="p-4 text-gray-800 dark:text-gray-100 flex flex-col justify-between flex-grow">
             <div>
               <h3 className="font-bold text-lg mb-1 flex items-center gap-2">
-                TruePoint Campaign Landing Page
+                TruePoint Campaign
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-300">
                 A responsive promotional landing page for TruePoint privileges.
@@ -131,7 +131,7 @@ export default function WebPreview() {
           <div className="p-4 text-gray-800 dark:text-gray-100 flex flex-col justify-between flex-grow">
             <div>
               <h3 className="font-bold text-lg mb-1 flex items-center gap-2">
-                TrueCard Landing Page
+                TrueCard
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-300">
                 Modern, mobile-first landing page for TrueCard Showcases
@@ -168,10 +168,10 @@ export default function WebPreview() {
           <div className="p-4 text-gray-800 dark:text-gray-100 flex flex-col justify-between flex-grow">
             <div>
               <h3 className="font-bold text-lg mb-1 flex items-center gap-2">
-                MRTA Parking Dashboard
+                MRTA Parking
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-300">
-                Internal dashboard for real-time parking management.
+                Real-time parking management.
               </p>
               <div className="flex flex-wrap gap-2 mt-3">
                 <span className="bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200 text-xs font-semibold px-2.5 py-0.5 rounded-full flex items-center gap-1">
