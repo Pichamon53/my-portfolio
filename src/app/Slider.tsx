@@ -103,7 +103,7 @@ export default function Slider() {
                 {/* Mockup */}
                 <div className="w-[140px] sm:w-[190px] rounded-[35px] overflow-hidden shadow-md">
                   <img
-                    src="https://imguh.com/images/2025/06/08/Mockupcced2e63f02848c7.png"
+                    src="https://i.ibb.co/jvyBhgBw/Mockup.png"
                     alt="True Privilege App Mockup"
                     className="w-full h-auto"
                   />

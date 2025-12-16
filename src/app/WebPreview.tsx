@@ -124,7 +124,7 @@ export default function WebPreview() {
         </div>
         <div className="bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1 duration-300 flex flex-col h-full">
           <img
-            src="https://imguh.com/images/2025/06/10/Screenshot-2568-06-10-at-15.32.528febdef45a479856.png"
+            src="https://i.ibb.co/GfPcQCYx/Screenshot-2568-06-10-at-15-32-52.png"
             alt="Truecard Landing Page"
             className="w-full h-48 object-cover"
           />
