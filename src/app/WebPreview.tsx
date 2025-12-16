@@ -18,7 +18,7 @@ export default function WebPreview() {
       <div className="grid md:grid-cols-3 sm:grid-cols-2 gap-6">
         <div className="bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1 duration-300 flex flex-col h-full">
           <img
-            src="https://imguh.com/images/2025/06/10/Screenshot-2568-06-09-at-10.53.47d578a7c48c7fdf57.png"
+            src="https://i.ibb.co/j2wxnt4/Screenshot-2568-04-16-at-07-30-42.png"
             alt="Apartments Near UTCC"
             className="w-full h-48 object-cover"
           />
@@ -53,7 +53,7 @@ export default function WebPreview() {
         </div>
         <div className="bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1 duration-300 flex flex-col h-full">
           <img
-            src="https://imguh.com/images/2025/06/08/Screenshot-2568-06-09-at-06.46.37a8fa4b85b0856681.png"
+            src="https://i.ibb.co/PzNvgx2T/Screenshot-2568-04-16-at-07-25-12.png"
             alt="แนะนำหอพักนักศึกษาไทย UTCC"
             className="w-full h-48 object-cover"
           />
