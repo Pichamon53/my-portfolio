@@ -33,7 +33,6 @@ export default function Slider() {
                 </p>
               </div>
 
-              {/* Navigation Buttons Inside the Content */}
               <div className="flex justify-center gap-4 mt-8">
                 <button
                   onClick={prevSlide}
